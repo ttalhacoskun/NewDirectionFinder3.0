@@ -1,1 +1,6 @@
-# NewDirectionFinder3.0
+# NewDirectionFinder3.0![Simulator Screenshot - iPhone 15 Plus - 2023-10-15 at 21 55 29](https://github.com/ttalhacoskun/NewDirectionFinder3.0/assets/85844606/539a2424-e71c-431e-b89c-9d161a661d73)
+![Simulator Screenshot - iPhone 15 Plus - 2023-10-15 at 21 55 15](https://github.com/ttalhacoskun/NewDirectionFinder3.0/assets/85844606/33f632fb-4233-41ec-bae1-86283b4d8a43)
+![Simulator Screenshot - iPhone 15 Plus - 2023-10-15 at 21 55 05](https://github.com/ttalhacoskun/NewDirectionFinder3.0/assets/85844606/d78cdcfd-4ca1-410a-a497-643cac694a53)
+![Simulator Screenshot - iPhone 15 Plus - 2023-10-15 at 21 54 53](https://github.com/ttalhacoskun/NewDirectionFinder3.0/assets/85844606/ae7c021f-7c76-4ecc-a5dd-5b535444fe03)
+![Simulator Screenshot - iPhone 15 Plus - 2023-10-15 at 21 54 42](https://github.com/ttalhacoskun/NewDirectionFinder3.0/assets/85844606/2084e873-cd04-4b22-83c1-5759cf7b470a)
+![Simulator Screenshot - iPhone 15 Plus - 2023-10-15 at 21 54 25](https://github.com/ttalhacoskun/NewDirectionFinder3.0/assets/85844606/cac44d5c-728b-4a56-ae8e-a8283a861173)
