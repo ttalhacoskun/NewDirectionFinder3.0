@@ -10,7 +10,6 @@
 		172E140C2AA3041800F4B7CD /* newDirectionFinder3_0App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172E140B2AA3041800F4B7CD /* newDirectionFinder3_0App.swift */; };
 		172E14102AA3041A00F4B7CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 172E140F2AA3041A00F4B7CD /* Assets.xcassets */; };
 		172E141B2AA3043500F4B7CD /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172E141A2AA3043500F4B7CD /* Home.swift */; };
-		1792012A2AD8E9F000CDF9AE /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179201292AD8E9F000CDF9AE /* LoginView.swift */; };
 		179201302AD938DF00CDF9AE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1792012F2AD938DF00CDF9AE /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
@@ -19,7 +18,6 @@
 		172E140B2AA3041800F4B7CD /* newDirectionFinder3_0App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newDirectionFinder3_0App.swift; sourceTree = "<group>"; };
 		172E140F2AA3041A00F4B7CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		172E141A2AA3043500F4B7CD /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
-		179201292AD8E9F000CDF9AE /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LoginView.swift; path = ../../LoginView.swift; sourceTree = "<group>"; };
 		1792012F2AD938DF00CDF9AE /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,7 +62,6 @@
 			isa = PBXGroup;
 			children = (
 				172E141A2AA3043500F4B7CD /* Home.swift */,
-				179201292AD8E9F000CDF9AE /* LoginView.swift */,
 				1792012F2AD938DF00CDF9AE /* ContentView.swift */,
 			);
 			path = View;
@@ -141,7 +138,6 @@
 			files = (
 				172E141B2AA3043500F4B7CD /* Home.swift in Sources */,
 				179201302AD938DF00CDF9AE /* ContentView.swift in Sources */,
-				1792012A2AD8E9F000CDF9AE /* LoginView.swift in Sources */,
 				172E140C2AA3041800F4B7CD /* newDirectionFinder3_0App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -11,7 +11,7 @@ import SwiftUI
 struct newDirectionFinder3_0App: App {
     var body: some Scene {
         WindowGroup {
-            LoginView()
+            Home()
         }
     }
 }
